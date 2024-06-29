@@ -1,7 +1,16 @@
 # Machine learning project challenge - Copper industry data | Predict price and status.
 
+Links :
 
-##Industrial Copper Modeling
+| Site       | Link URL       |
+| ---------- | :-------------:|
+| `Kaggle.com` | https://www.kaggle.com/code/umeshkmr/03-ml-proj-copper-final |
+| `github.com` | https://github.com/umeshkmrgithub/3_DS_ML_PROJ_COPPER_FINAL |
+| `linkedin`   | linkedin     |
+
+
+
+## Copper industry price prediction | ML Model
 
 ### Introduction
 The Industrial Copper Modeling project focuses on predicting the selling price and status (won or lost) in the industrial copper market using machine learning regression and classification algorithms. By exploring the dataset, performing data cleaning and preprocessing, and applying various machine learning techniques, we aim to develop models that can accurately predict the selling price and status in the copper market.
@@ -22,11 +31,13 @@ Exploring Skewness and Outliers: Analyze the distribution of variables in the da
 #### Requirements
 To run this project, the following libraries are needed:
 
-* NumPy: A library for numerical computations in Python.
-* Pandas: A library for data manipulation and analysis.
-* Scikit-learn: A machine learning library that provides various regression and classification algorithms.
-* Matplotlib: A plotting library for creating visualizations.
-* Seaborn: A data visualization library built on top of Matplotlib.
+- [NumPy]: A library for numerical computations in Python.
+- [Pandas]: A library for data manipulation and analysis.
+- [Scikit-learn]: A machine learning library that provides various regression and classification algorithms.
+- [Matplotlib]: A plotting library for creating visualizations.
+- [Seaborn]: A data visualization library built on top of Matplotlib.
+- [Streamlit]: Specilialized web application for data science usecases.
+ 
 Make sure these libraries are installed in your Python environment before running the project.
 
 Methodology
@@ -49,4 +60,6 @@ Apply different machine learning classification algorithms to predict the status
 Prepare a comprehensive documentation summarizing the steps involved in the analysis, including the preprocessing techniques, machine learning algorithms used, and their performance. Include visualizations and interpretations to effectively communicate the results.
 
 
-Links :
+
+
+
